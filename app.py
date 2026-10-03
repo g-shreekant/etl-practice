@@ -1,8 +1,0 @@
-print("Hello Git World")
-print("Version 2 added")
-print("Version 3 - logging added")
-print("Hello Git - Version 4")
-print("Hello Git - Version 5")
-print("Hello Git - Logging Feature")
-print("Hello Git - Version 6")
-print("Hello from GitHub edit")
